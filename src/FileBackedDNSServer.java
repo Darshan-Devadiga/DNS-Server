@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Main {
+public class FileBackedDNSServer {
     private static final int PORT = 1053;
     private static final Map<String, String> dnsDatabase = new HashMap<>();
 
