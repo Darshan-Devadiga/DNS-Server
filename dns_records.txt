@@ -1,0 +1,2 @@
+example.com=93.184.216.34
+mytest.local=192.168.1.50
